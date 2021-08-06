@@ -16,7 +16,17 @@ torch::Tensor DecodeBox(torch::Tensor input, torch::Tensor anchors, int num_clas
 	auto stride_w = img_size[0] / input_width;
 	//把先验框的尺寸调整成特征层大小的形式
 	//计算出先验框在特征层上对应的宽高
+
+	// tensor.clone() 返回tensor的拷贝，返回的新tensor和原来的tensor具有同样的大小和数据类型
+	// clone()返回的tensor是中间节点，梯度会流向原tensor，即返回的tensor的梯度会叠加在原tensor上
+	// tensor.detach() 返回一个新的tensor，新的tensor和原来的tensor共享数据内存，但不涉及梯度计算，
+	// 即requires_grad=False。修改其中一个tensor的值，另一个也会改变，因为是共享同一块内存，但如果
+	// 对其中一个tensor执行某些内置操作，则会报错，例如resize_、resize_as_、set_、transpose_
 	auto scaled_anchors = anchors.clone();
+
+	// select(dim, index) 按index中选定的维度对tensor进行切片 
+	// tensor.select(0, index)等价于tensor[index]
+	// tensor.select(2, index)等价于tensor[:, : , index]
 	scaled_anchors.select(1, 0) = scaled_anchors.select(1, 0) / stride_w;
 	scaled_anchors.select(1, 1) = scaled_anchors.select(1, 1) / stride_h;
 
