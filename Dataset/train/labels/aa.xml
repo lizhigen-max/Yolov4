@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>aa.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\aa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>74</ymin>
+			<xmax>126</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>src=http___paper.dzwww.com_ncdz_IMAGE_20200327_04_04_04_0057.jpg&amp;refer=http___paper.dzwww.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\src=http___paper.dzwww.com_ncdz_IMAGE_20200327_04_04_04_0057.jpg&amp;refer=http___paper.dzwww.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>530</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>115</ymin>
+			<xmax>95</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

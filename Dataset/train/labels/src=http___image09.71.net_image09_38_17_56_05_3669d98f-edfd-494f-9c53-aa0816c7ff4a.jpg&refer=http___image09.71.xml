@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>src=http___image09.71.net_image09_38_17_56_05_3669d98f-edfd-494f-9c53-aa0816c7ff4a.jpg&amp;refer=http___image09.71.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\src=http___image09.71.net_image09_38_17_56_05_3669d98f-edfd-494f-9c53-aa0816c7ff4a.jpg&amp;refer=http___image09.71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>311</ymin>
+			<xmax>70</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

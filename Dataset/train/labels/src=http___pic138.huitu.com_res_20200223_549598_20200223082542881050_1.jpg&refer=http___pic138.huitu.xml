@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>src=http___pic138.huitu.com_res_20200223_549598_20200223082542881050_1.jpg&amp;refer=http___pic138.huitu.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\src=http___pic138.huitu.com_res_20200223_549598_20200223082542881050_1.jpg&amp;refer=http___pic138.huitu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>599</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>272</ymin>
+			<xmax>189</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

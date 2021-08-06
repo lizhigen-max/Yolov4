@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>src=http___00imgmini.eastday.com_mobile_20190726_20190726235339_d69ca8f02129b0bd576bb903b788ca98_2.jpeg&amp;refer=http___00imgmini.eastday.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\src=http___00imgmini.eastday.com_mobile_20190726_20190726235339_d69ca8f02129b0bd576bb903b788ca98_2.jpeg&amp;refer=http___00imgmini.eastday.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>133</ymin>
+			<xmax>299</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

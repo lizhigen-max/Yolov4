@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>src=http___qqpublic.qpic.cn_qq_public_0_0-2347997562-CA2A50700199763D67E0268DF2391107_0_fmt=jpg&amp;size=30&amp;h=586&amp;w=337&amp;ppv=1.jpg&amp;refer=http___qqpublic.qpic.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\src=http___qqpublic.qpic.cn_qq_public_0_0-2347997562-CA2A50700199763D67E0268DF2391107_0_fmt=jpg&amp;size=30&amp;h=586&amp;w=337&amp;ppv=1.jpg&amp;refer=http___qqpublic.qpic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>337</width>
+		<height>586</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>172</ymin>
+			<xmax>313</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

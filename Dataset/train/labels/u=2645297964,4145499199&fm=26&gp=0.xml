@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>u=2645297964,4145499199&amp;fm=26&amp;gp=0.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\u=2645297964,4145499199&amp;fm=26&amp;gp=0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>154</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>27</ymin>
+			<xmax>91</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

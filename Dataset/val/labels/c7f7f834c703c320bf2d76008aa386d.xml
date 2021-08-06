@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>c7f7f834c703c320bf2d76008aa386d.jpg</filename>
+	<path>C:\Users\Zhigen\Desktop\LibtorchDetection-main\dataset\val\images\c7f7f834c703c320bf2d76008aa386d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>310</ymin>
+			<xmax>1054</xmax>
+			<ymax>1130</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>src=http___inews.gtimg.com_newsapp_match_0_11099105318_0.jpg&amp;refer=http___inews.gtimg.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\src=http___inews.gtimg.com_newsapp_match_0_11099105318_0.jpg&amp;refer=http___inews.gtimg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>848</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>217</ymin>
+			<xmax>640</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

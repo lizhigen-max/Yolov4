@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>src=http___i.weather.com.cn_images_guangxi_tqxw_2016_09_01_01111143FDC8D89405B27C6761EE5A5E904DEBD2.jpg&amp;refer=http___i.weather.com.jpg</filename>
+	<path>D:\pytorch\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\src=http___i.weather.com.cn_images_guangxi_tqxw_2016_09_01_01111143FDC8D89405B27C6761EE5A5E904DEBD2.jpg&amp;refer=http___i.weather.com.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>berrl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>207</ymin>
+			<xmax>278</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>
